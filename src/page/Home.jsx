@@ -44,7 +44,7 @@ const Home = () => {
       </section>
 
       {/* About Me Section */}
-      <section className="py-16 text-center bg-gray-900 ">
+      <section className="py-16 text-center bg-[#131313] ">
         <h2 className="text-3xl font-semibold text-yellow-500">About Me</h2>
         <p className="text-lg mt-4 max-w-3xl mx-auto opacity-80">
           I'm a passionate Fullstack Developer with a focus on building scalable
@@ -99,7 +99,7 @@ const Home = () => {
       <section className="py-16 text-center  ">
         <h2 className="text-3xl font-semibold text-yellow-500">My Services</h2>
         <div className="mt-8 grid grid-cols-1 md:grid-cols-3 gap-8">
-          <div className="p-6 rounded-lg shadow-2xl bg-black hover:bg-gray-900 transition-all duration-300">
+          <div className="p-6 rounded-lg shadow-2xl bg-black hover:bg-[#131313] transition-all duration-300">
             <h3 className="text-2xl font-semibold">Web Development</h3>
             <p className="mt-4">
               I create responsive, modern, and user-friendly websites using the
@@ -107,14 +107,14 @@ const Home = () => {
               devices.
             </p>
           </div>
-          <div className="p-6 rounded-lg shadow-2xl bg-black hover:bg-gray-900 transition-all duration-300">
+          <div className="p-6 rounded-lg shadow-2xl bg-black hover:bg-[#131313] transition-all duration-300">
             <h3 className="text-2xl font-semibold">App Development</h3>
             <p className="mt-4">
               I build cross-platform mobile applications for both iOS and
               Android, ensuring optimal performance and usability.
             </p>
           </div>
-          <div className="p-6 rounded-lg shadow-2xl bg-black hover:bg-gray-900 transition-all duration-300">
+          <div className="p-6 rounded-lg shadow-2xl bg-black hover:bg-[#131313] transition-all duration-300">
             <h3 className="text-2xl font-semibold">Consultation</h3>
             <p className="mt-4">
               I offer consultation services to help businesses solve technical
@@ -130,7 +130,7 @@ const Home = () => {
           What Clients Say
         </h2>
         <div className="mt-8 space-y-8">
-          <div className="p-8 rounded-lg shadow-2xl bg-gray-900">
+          <div className="p-8 rounded-lg shadow-2xl bg-[#131313]">
             <p className="text-xl italic">
               "Jimi is an exceptional developer. His attention to detail and
               ability to deliver results on time are remarkable. I highly
@@ -138,7 +138,7 @@ const Home = () => {
             </p>
             <p className="mt-4 font-semibold">Sarah T., CEO</p>
           </div>
-          <div className="p-8 rounded-lg shadow-2xl bg-gray-900">
+          <div className="p-8 rounded-lg shadow-2xl bg-[#131313]">
             <p className="text-xl italic">
               "I had the pleasure of working with Jimi on a recent project. He
               demonstrated excellent problem-solving skills and his work ethic
@@ -168,7 +168,7 @@ const Home = () => {
       </section>
 
       {/* Contact Section */}
-      <section className="py-16 text-center bg-gray-900 ">
+      <section className="py-16 text-center bg-[#131313] ">
         <h2 className="text-3xl font-semibold text-yellow-500">Get in Touch</h2>
         <p className="text-xl mt-4 max-w-3xl mx-auto opacity-80">
           Interested in collaborating on a project or want to learn more about
