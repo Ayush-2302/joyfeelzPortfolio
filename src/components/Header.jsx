@@ -10,7 +10,7 @@ const Header = () => {
     { name: "Services", path: "/services" },
     { name: "Skills", path: "/skills" },
     { name: "Projects", path: "/projects" },
-    { name: "Contact", path: "/contact" },
+    // { name: "Contact", path: "/contact" },
   ];
 
   // State for mobile menu

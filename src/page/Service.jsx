@@ -177,9 +177,9 @@ const Service = () => {
           to finish. Get in touch today to discuss your ideas and let’s make
           your vision a reality.
         </p>
-        <button className="contact-btn px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700">
+        <a href="mailto:joyfeelz911@gmail.com" className="contact-btn px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700">
           Contact Me
-        </button>
+        </a>
       </section>
     </div>
   );
