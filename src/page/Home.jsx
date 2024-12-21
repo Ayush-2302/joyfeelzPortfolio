@@ -130,18 +130,21 @@ const Home = () => {
           What Clients Say
         </h2>
         <div className="mt-8 space-y-8">
+          {/* First Client Testimonial */}
           <div className="p-8 rounded-lg shadow-2xl bg-[#131313]">
             <p className="text-xl italic">
-              "Jimi is an exceptional developer. His attention to detail and
+              "Jimi is an exceptional developer. Her attention to detail and
               ability to deliver results on time are remarkable. I highly
-              recommend him for any full-stack development project."
+              recommend her for any full-stack development project."
             </p>
             <p className="mt-4 font-semibold">Sarah T., CEO</p>
           </div>
+
+          {/* Second Client Testimonial */}
           <div className="p-8 rounded-lg shadow-2xl bg-[#131313]">
             <p className="text-xl italic">
-              "I had the pleasure of working with Jimi on a recent project. He
-              demonstrated excellent problem-solving skills and his work ethic
+              "I had the pleasure of working with Jimi on a recent project. She
+              demonstrated excellent problem-solving skills and her work ethic
               is unmatched."
             </p>
             <p className="mt-4 font-semibold">Mark L., Product Manager</p>

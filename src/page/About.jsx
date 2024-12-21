@@ -115,7 +115,7 @@ const About = () => {
         </div>
 
         {/* Download CV Button */}
-        <div className="text-center mt-8">
+        {/* <div className="text-center mt-8">
           <a
             href="/nresume.pdf"
             download="jimi_talabi_joy_resume.pdf"
@@ -123,7 +123,7 @@ const About = () => {
           >
             Download CV
           </a>
-        </div>
+        </div> */}
       </div>
     </section>
   );
